@@ -1,0 +1,14 @@
+[project]
+name = "laizypainter-exporter-comfyui"
+description = "This exporter is a plugin for ComfyUI, which can export tasks for [a/LAizypainter](https://github.com/DimaChaichan/LAizypainter).\nLAizypainter is a Photoshop plugin with which you can send tasks directly to a Stable Diffusion server. More information about a [a/Task](https://github.com/DimaChaichan/LAizypainter?tab=readme-ov-file#task)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/DimaChaichan/LAizypainter-Exporter-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "LAizypainter-Exporter-ComfyUI"
+Icon = ""
